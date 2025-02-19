@@ -1,5 +1,6 @@
 foi acrescentados mais opções nos recursos do sistema para automatizar os processos, novos recursos, correções, novos relatórios...aascscsacsc dddd
 a111111115a151..1..11
+<<<<<<< HEAD
 A
 A
 A
@@ -8,3 +9,14 @@ A
 A
 A
 A
+=======
+B
+B
+B
+B
+B
+B
+B
+B
+B
+>>>>>>> b5b22297a11e4ce0884d5a60a038d960b1b6399f
